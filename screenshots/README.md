@@ -1,1 +1,1 @@
-Screenshots for Netflix EDA project
+Screenshots for Netflix (EDA) project
